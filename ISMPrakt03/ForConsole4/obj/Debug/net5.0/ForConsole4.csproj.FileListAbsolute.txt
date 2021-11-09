@@ -1,0 +1,4 @@
+F:\ISMPrakt03\ISMPrakt03\ForConsole4\obj\Debug\net5.0\ForConsole4.GeneratedMSBuildEditorConfig.editorconfig
+F:\ISMPrakt03\ISMPrakt03\ForConsole4\obj\Debug\net5.0\ForConsole4.AssemblyInfoInputs.cache
+F:\ISMPrakt03\ISMPrakt03\ForConsole4\obj\Debug\net5.0\ForConsole4.AssemblyInfo.cs
+F:\ISMPrakt03\ISMPrakt03\ForConsole4\obj\Debug\net5.0\ForConsole4.csproj.CoreCompileInputs.cache

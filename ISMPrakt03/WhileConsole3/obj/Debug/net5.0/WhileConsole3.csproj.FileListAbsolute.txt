@@ -1,0 +1,15 @@
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\bin\Debug\net5.0\WhileConsole3.exe
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\bin\Debug\net5.0\WhileConsole3.deps.json
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\bin\Debug\net5.0\WhileConsole3.runtimeconfig.json
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\bin\Debug\net5.0\WhileConsole3.runtimeconfig.dev.json
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\bin\Debug\net5.0\WhileConsole3.dll
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\bin\Debug\net5.0\ref\WhileConsole3.dll
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\bin\Debug\net5.0\WhileConsole3.pdb
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\obj\Debug\net5.0\WhileConsole3.GeneratedMSBuildEditorConfig.editorconfig
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\obj\Debug\net5.0\WhileConsole3.AssemblyInfoInputs.cache
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\obj\Debug\net5.0\WhileConsole3.AssemblyInfo.cs
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\obj\Debug\net5.0\WhileConsole3.csproj.CoreCompileInputs.cache
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\obj\Debug\net5.0\WhileConsole3.dll
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\obj\Debug\net5.0\ref\WhileConsole3.dll
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\obj\Debug\net5.0\WhileConsole3.pdb
+F:\ISMPrakt03\ISMPrakt03\WhileConsole3\obj\Debug\net5.0\WhileConsole3.genruntimeconfig.cache

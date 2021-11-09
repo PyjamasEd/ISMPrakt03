@@ -1,0 +1,16 @@
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.exe
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.deps.json
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.runtimeconfig.json
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.runtimeconfig.dev.json
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.dll
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ref\ForConsole3.dll
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.pdb
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.csproj.AssemblyReference.cache
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.GeneratedMSBuildEditorConfig.editorconfig
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.AssemblyInfoInputs.cache
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.AssemblyInfo.cs
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.csproj.CoreCompileInputs.cache
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.dll
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ref\ForConsole3.dll
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.pdb
+F:\ISMPrakt03\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.genruntimeconfig.cache
